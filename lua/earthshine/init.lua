@@ -1,4 +1,3 @@
-local Utils = require("earthshine.utils")
 local groups = require("earthshine.groups")
 
 local M = {}
